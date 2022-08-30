@@ -40,4 +40,4 @@ only solid-colored borders captured at the end of a frame.
 ![screenshot-main](scr/scr3.png)  
 ![screenshot-main](scr/scr2.png)  
 ![screenshot-main](scr/scr1.png)  
-  
+
