@@ -25,7 +25,6 @@ can generate **flashing images**.
 - floating bus, which is required by certain games
 - memory contention
 - tape loading
-- border stripes
 - 100% accurate timing  
 - and more ...
 
@@ -34,3 +33,11 @@ can generate **flashing images**.
 The screen is not drawn the same way as it is done on a real ZX Spectrum machine.  
 Intermediary border changes are not handled currently, meaning there are no border stripes,  
 only solid-colored borders captured at the end of a frame.
+
+&nbsp;
+## Screenshots ##
+![screenshot-main](scr/scr0.png)  
+![screenshot-main](scr/scr3.png)  
+![screenshot-main](scr/scr2.png)  
+![screenshot-main](scr/scr1.png)  
+  
