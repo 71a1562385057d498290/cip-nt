@@ -1,6 +1,9 @@
 ## CIP-NT ##
 A **Z80** CPU and **ZX Spectrum** machine emulator.
 
+## Note ##
+The source code presented in this repository is just a sample and has missing parts.
+
 &nbsp;
 ## Warning ##
 **DO NOT USE** this application if you have any kind of sensitivity to **flashing images**.  
